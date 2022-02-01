@@ -1,0 +1,1 @@
+Zmodyfikowana zawartosc first-commit.txt
